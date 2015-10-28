@@ -4,8 +4,9 @@
 
 * [Business](#business)
 * [Design](#design)
-* [Lifestyle](#lifestyle)
+* [Finance](#finance)
 * [Marketing](#marketing)
+* [Science](#science)
 * [Startups](#startups)
 * [Technology](#technology)
 
@@ -16,11 +17,20 @@
 ## Design
 
 * [Designer News](https://www.designernews.co) - Interesting links and events for design professionals.
+* [Pineapple](http://pineapple.io) - Tutorials and resources for designers and developers.
+
+## Finance
+
+* [Qunatocracy](http://quantocracy.com) - Curated quantitative trading links.
 
 ## Marketing
 
 * [GrowthHackers](https://growthhackers.com) - Focsued on online marketing techniques to drive growth, started by [Sean Ellis](https://www.quora.com/profile/Sean-Ellis).
 * [Inbound](https://inbound.org) - Social marketing and SEO community.
+
+## Science
+
+* [DataTau](http://www.datatau.com) - Hacker News for data scientists.
 
 ## Startups
 
@@ -28,5 +38,6 @@
 
 ## Technology
 
+* [Firespotting](http://firespotting.com) - Interesting ideas and products.
 * [Lobsters](https://lobste.rs) - Very similar to Hacker News, but with more emphasis on technical content.
 * [Product Hunt](https://www.producthunt.com) - A place to share the latest tech creations (apps, websites, hardware etc.).

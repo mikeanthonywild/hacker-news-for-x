@@ -39,5 +39,6 @@
 ## Technology
 
 * [Firespotting](http://firespotting.com) - Interesting ideas and products.
+* [Golang News](https://golangnews.com) - Curated links and news about the Go Programming language
 * [Lobsters](https://lobste.rs) - Very similar to Hacker News, but with more emphasis on technical content.
 * [Product Hunt](https://www.producthunt.com) - A place to share the latest tech creations (apps, websites, hardware etc.).

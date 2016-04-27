@@ -35,6 +35,7 @@
 ## Startups
 
 * [Bootstrappers](http://www.bootstrappers.io) - Discussion on bootstrapping and associated lifestyle.
+* [Wantrepreneur](http://wantrepreneur.io/) - Motivational articles, books and discussions for entrepreneurs. 
 
 ## Technology
 

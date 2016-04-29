@@ -27,7 +27,7 @@ Hacker News for Design
 
 Hacker News for Finance
 
-* [Qunatocracy](http://quantocracy.com) - Curated quantitative trading links.
+* [Quantocracy](http://quantocracy.com) - Curated quantitative trading links.
 
 ## Marketing
 

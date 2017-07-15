@@ -3,6 +3,8 @@
 ## Table of Contents
 
 * [Business](#business)
+  * [Bootstrapping](#bootstrapping)
+  * [Entrepreneurship](#entrepreneurship)
 * [Design](#design)
 * [Finance](#finance)
 * [Marketing](#marketing)
@@ -15,6 +17,18 @@
 Hacker News for Business
 
 * [Trejdify](http://www.trejdify.com) - Curated business and economics news.
+
+### Bootstrapping
+Hacker News for Bootstrapping
+
+* [Barnacles](https://barnacl.es) - News for bootstrappers, not VC hackers
+* [Bootstrappers](http://www.bootstrappers.io) - Discussion on bootstrapping and associated lifestyle.
+
+### Entrepreneurship
+
+Hacker News for Entrepreneurship
+
+* [Wantrepreneur](http://wantrepreneur.io/) - Motivational articles, books and discussions for entrepreneurs. 
 
 ## Design
 
@@ -41,13 +55,6 @@ Hacker News for Marketing
 Hacker News for Science
 
 * [DataTau](http://www.datatau.com) - Hacker News for data scientists.
-
-## Startups
-
-Hacker News for Startups
-
-* [Bootstrappers](http://www.bootstrappers.io) - Discussion on bootstrapping and associated lifestyle.
-* [Wantrepreneur](http://wantrepreneur.io/) - Motivational articles, books and discussions for entrepreneurs. 
 
 ## Technology
 

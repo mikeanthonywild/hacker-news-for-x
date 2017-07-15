@@ -14,6 +14,7 @@
 
 Hacker News for Business
 
+* [Barnacles](https://barnacl.es) - News for bootstrappers, not VC hackers
 * [Trejdify](http://www.trejdify.com) - Curated business and economics news.
 
 ## Design

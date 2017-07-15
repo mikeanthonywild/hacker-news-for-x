@@ -3,6 +3,8 @@
 ## Table of Contents
 
 * [Business](#business)
+  * [Bootstrapping](#bootstrapping)
+  * [Entrepreneurship](#entrepreneurship)
 * [Design](#design)
 * [Finance](#finance)
 * [Marketing](#marketing)

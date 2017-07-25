@@ -9,7 +9,6 @@
 * [Finance](#finance)
 * [Marketing](#marketing)
 * [Science](#science)
-* [Startups](#startups)
 * [Technology](#technology)
 
 ## Business

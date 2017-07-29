@@ -4,12 +4,10 @@
 
 * [Business](#business)
   * [Bootstrapping](#bootstrapping)
-  * [Entrepreneurship](#entrepreneurship)
 * [Design](#design)
 * [Finance](#finance)
 * [Marketing](#marketing)
 * [Science](#science)
-* [Startups](#startups)
 * [Technology](#technology)
 
 ## Business
@@ -23,12 +21,6 @@ Hacker News for Bootstrapping
 
 * [Barnacles](https://barnacl.es) - News for bootstrappers, not VC hackers
 * [Bootstrappers](http://www.bootstrappers.io) - Discussion on bootstrapping and associated lifestyle.
-
-### Entrepreneurship
-
-Hacker News for Entrepreneurship
-
-* [Wantrepreneur](http://wantrepreneur.io/) - Motivational articles, books and discussions for entrepreneurs. 
 
 ## Design
 
